@@ -6,7 +6,7 @@ public class Appli {
 	
 	private String age = "30";
 	
-	
+	private String teString = "test";
 	
 	public String getAge() {
 		return age;
