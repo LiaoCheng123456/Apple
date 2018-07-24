@@ -8,6 +8,18 @@ public class Appli {
 	
 	private String teString = "test";
 	
+	public String getTeString() {
+		return teString;
+	}
+
+
+
+	public void setTeString(String teString) {
+		this.teString = teString;
+	}
+
+
+
 	public String getAge() {
 		return age;
 	}
