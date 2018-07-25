@@ -2,7 +2,7 @@ package com.yzqw.model;
 
 public class Appli {
 
-	private String name = "Hello JenKins &&&&dddd&&&&&&看看行不行Jenkis Tet";
+	private String name = "Hello JenKins &&&&dddd&&&&&&看看行不行Jenkis Tet HHHHHHHHHHH";
 	
 	private String age = "301111";
 	
