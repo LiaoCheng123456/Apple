@@ -14,6 +14,15 @@ public class Appli {
 
 
 
+	public Appli(String name, String age, String myString) {
+		super();
+		this.name = name;
+		this.age = age;
+		this.myString = myString;
+	}
+
+
+
 	public void setTeString(String teString) {
 		this.myString = teString;
 	}
