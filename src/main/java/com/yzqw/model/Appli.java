@@ -4,18 +4,18 @@ public class Appli {
 
 	private String name = "Hello JenKins";
 	
-	private String age = "30";
+	private String age = "301111";
 	
-	private String teString = "test";
+	private String myString = "test";
 	
 	public String getTeString() {
-		return teString;
+		return myString;
 	}
 
 
 
 	public void setTeString(String teString) {
-		this.teString = teString;
+		this.myString = teString;
 	}
 
 
