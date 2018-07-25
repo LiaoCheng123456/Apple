@@ -19,7 +19,7 @@ public class Appli {
 
 
 	public String getAge() {
-		return age;
+		return age = "121";
 	}
 
 
