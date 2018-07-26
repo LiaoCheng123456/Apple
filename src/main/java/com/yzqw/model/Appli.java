@@ -1,5 +1,4 @@
 package com.yzqw.model;
-
 public class Appli {
 
 	private String name = "Hello JenKins &&&&dddd&&&&&&看看行不行Jenkis Tet HHHHHHHHHHH";
@@ -7,6 +6,9 @@ public class Appli {
 	private String age = "301111";
 	
 	private String myString = "test";
+	public void file() {
+		
+	}
 	
 	public String getTeString() {
 		return myString;
